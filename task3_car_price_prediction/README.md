@@ -74,4 +74,4 @@ python task3_car_price_prediction/car_price_prediction.py
 - Individual sellers get systematically lower prices than dealers — transparency gap ML pricing could close
 
 ---
-*Part of the [codealpha_tasks](https://github.com/) repository — CodeAlpha Data Science Internship, Sep–Oct 2026.*
+*Part of the [CodeAlpha_CarPricePrediction](https://github.com/admasfeleke/CodeAlpha_CarPricePrediction) repository — also included in the [codealpha_tasks](https://github.com/admasfeleke/codealpha_tasks) collection. CodeAlpha Data Science Internship, Sep–Oct 2026.*

@@ -71,4 +71,4 @@ python task2_unemployment_analysis/unemployment_analysis.py
 4. The LFPR collapse shows headline unemployment **understates** the damage — participation recovery matters too
 
 ---
-*Part of the [codealpha_tasks](https://github.com/) repository — CodeAlpha Data Science Internship, Sep–Oct 2026.*
+*Part of the [CodeAlpha_UnemploymentAnalysis](https://github.com/admasfeleke/CodeAlpha_UnemploymentAnalysis) repository — also included in the [codealpha_tasks](https://github.com/admasfeleke/codealpha_tasks) collection. CodeAlpha Data Science Internship, Sep–Oct 2026.*

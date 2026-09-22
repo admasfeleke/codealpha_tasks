@@ -7,12 +7,12 @@
 Repository for my CodeAlpha Data Science internship tasks. Per CodeAlpha rules, at least **2 of 4** tasks must be completed for certification.
 
 ## Tasks
-| # | Task | Status |
-|---|------|--------|
-| 1 | [Iris Flower Classification](task1_iris_classification/) | ✅ Completed |
-| 2 | [Unemployment Analysis with Python](task2_unemployment_analysis/) | ✅ Completed |
-| 3 | [Car Price Prediction with ML](task3_car_price_prediction/) | ✅ Completed |
-| 4 | Sales Prediction using Python | ➖ Not started |
+| # | Task | Standalone Repo | Status |
+|---|------|-----------------|--------|
+| 1 | [Iris Flower Classification](task1_iris_classification/) | [CodeAlpha_IrisClassification](https://github.com/admasfeleke/CodeAlpha_IrisClassification) | ✅ Completed |
+| 2 | [Unemployment Analysis with Python](task2_unemployment_analysis/) | [CodeAlpha_UnemploymentAnalysis](https://github.com/admasfeleke/CodeAlpha_UnemploymentAnalysis) | ✅ Completed |
+| 3 | [Car Price Prediction with ML](task3_car_price_prediction/) | [CodeAlpha_CarPricePrediction](https://github.com/admasfeleke/CodeAlpha_CarPricePrediction) | ✅ Completed |
+| 4 | Sales Prediction using Python | — | ➖ Not started |
 
 ## Setup
 ```bash

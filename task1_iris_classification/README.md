@@ -68,4 +68,4 @@ The script ends by classifying three unseen flowers:
 | 6.9 | 3.1 | 5.4 | 2.1 | virginica |
 
 ---
-*Part of the [codealpha_tasks](https://github.com/) repository — CodeAlpha Data Science Internship, Sep–Oct 2026.*
+*Part of the [CodeAlpha_IrisClassification](https://github.com/admasfeleke/CodeAlpha_IrisClassification) repository — also included in the [codealpha_tasks](https://github.com/admasfeleke/codealpha_tasks) collection. CodeAlpha Data Science Internship, Sep–Oct 2026.*
